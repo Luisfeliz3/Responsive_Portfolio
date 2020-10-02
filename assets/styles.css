@@ -79,4 +79,7 @@ body {
   }
   
 
- 
+  .contact{
+    font-size: 25px !important;
+    /* color: rgb(195, 20, 44); */
+  }
